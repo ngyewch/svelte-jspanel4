@@ -32,7 +32,8 @@
     "svelte"
   ],
   "files": [
-    "src",
+    "src/index.js",
+    "src/JsPanel.svelte",
     "dist"
   ]
 }
