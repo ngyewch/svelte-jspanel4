@@ -5,8 +5,8 @@
   "homepage": "https://ngyewch.github.io/svelte-jspanel4/",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ngyewch/svelte-jspanel4.git"
+    "type": "git",
+    "url": "https://github.com/ngyewch/svelte-jspanel4.git"
   },
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
