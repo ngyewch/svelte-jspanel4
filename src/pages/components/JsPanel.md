@@ -60,7 +60,7 @@ options      | Options. See https://jspanel.de/#options/overview           | Obj
 
 | Name          | Description |
 |---------------|-------------|
-| headerTitle   | Header title. Overrides `headerTitle` properties. See https://jspanel.de/#options/headerTitle |
+| headerTitle   | Header title. Overrides the `headerTitle` property. See https://jspanel.de/#options/headerTitle |
 | headerToolbar | Header toolbar. See https://jspanel.de/#options/headerToolbar |
 | content       | Content. See https://jspanel.de/#options/content |
 | footerToolbar | Footer toolbar. See https://jspanel.de/#options/footerToolbar |

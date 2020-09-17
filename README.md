@@ -6,6 +6,6 @@
 
 # svelte-jspanel4
 
-Svelte version of [jsPanel4](https://jspanel.de/)
+Svelte component for [jsPanel4](https://jspanel.de/)
 
 [Documentation & Demo](https://ngyewch.github.io/svelte-jspanel4/)
