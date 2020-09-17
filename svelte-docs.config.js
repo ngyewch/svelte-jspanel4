@@ -1,5 +1,5 @@
 module.exports = {
-    basepath: '/svelte-jspanel/',
+    basepath: '/svelte-jspanel4/',
 
     // theme 
     theme: 'default',
