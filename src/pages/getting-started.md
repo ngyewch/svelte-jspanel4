@@ -13,7 +13,8 @@ $ npm install -D rollup-plugin-postcss
 ```
 
 `rollup.config.js` (excerpt)
-```
+
+```js
 import postcss from 'rollup-plugin-postcss';
 
 export default {
