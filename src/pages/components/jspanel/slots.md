@@ -4,8 +4,6 @@
 <script>
     import JsPanel from 'svelte-jspanel4';
 
-    import 'jspanel4/dist/jspanel.css';
-
     let panel;
 </script>
 

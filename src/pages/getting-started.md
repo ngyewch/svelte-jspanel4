@@ -1,18 +1,38 @@
 # Installation
 
-Run this command:
-
 ```shell
-$ npm install -D svelte-jspanel4
+$ npm install -D svelte-jspanel4 jspanel4
 ```
 
-Import the CSS (from the main Javascript file):
+# CSS import
+
+## rollup example
+
+```shell
+$ npm install -D rollup-plugin-postcss
+```
+
+`rollup.config.js` (excerpt)
+```
+import postcss from 'rollup-plugin-postcss';
+
+export default {
+  plugins: [
+        // after the svelte plugin
+        postcss({
+            extract: true
+        })
+  ]
+}
+```
+
+Import the CSS (from the main Javascript file, typically `main.js`):
 
 ```js
 import 'jspanel4/dist/jspanel.css';
 ```
 
-Then you can import it in your projects:
+# Component import
 
 ```html
 <script> 

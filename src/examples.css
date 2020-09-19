@@ -1,4 +1,4 @@
-/* Styling of the examples view */
+@import '../node_modules/jspanel4/dist/jspanel.css';
 
 body {
 	color: #333;
