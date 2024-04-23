@@ -4,14 +4,14 @@ tasks:
   dev:
     desc: Run dev server.
     cmds:
-      - npm run dev
+      - pnpm run dev
 
   publish-to-github:
     desc: Publish documentation site to GitHub.
     cmds:
-      - npm run deploy
+      - pnpm run deploy
 
   publish-to-npmjs:
     desc: Publish package to npmjs.
     cmds:
-      - npm publish
+      - pnpm publish
