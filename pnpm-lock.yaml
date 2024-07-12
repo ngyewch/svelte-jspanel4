@@ -33,8 +33,8 @@ importers:
         specifier: 2.79.1
         version: 2.79.1
       rollup-plugin-svelte:
-        specifier: 7.2.0
-        version: 7.2.0(rollup@2.79.1)(svelte@3.59.2)
+        specifier: 7.2.2
+        version: 7.2.2(rollup@2.79.1)(svelte@3.59.2)
       svelte:
         specifier: 3.59.2
         version: 3.59.2
@@ -1664,8 +1664,8 @@ packages:
     resolution: {integrity: sha512-Y7qDwlqjZMBexbB1kRJf+jKIQL8HR6C+ay53YzN+nNJ64hn1PNZfBE3c61hFUhD//zrMwmm7uBW30RuTi+CD0w==}
     engines: {node: '>=10'}
 
-  rollup-plugin-svelte@7.2.0:
-    resolution: {integrity: sha512-Qvo5VNFQZtaI+sHSjcCIFDP+olfKVyslAoJIkL3DxuhUpNY5Ys0+hhxUY3kuEKt9BXFgkFJiiic/XRb07zdSbg==}
+  rollup-plugin-svelte@7.2.2:
+    resolution: {integrity: sha512-hgnIblTRewaBEVQD6N0Q43o+y6q1TmDRhBjaEzQCi50bs8TXqjc+d1zFZyE8tsfgcfNHZQzclh4RxlFUB85H8Q==}
     engines: {node: '>=10'}
     peerDependencies:
       rollup: '>=2.0.0'
@@ -2159,7 +2159,7 @@ snapshots:
       rollup: 2.79.1
       rollup-plugin-livereload: 1.3.0
       rollup-plugin-postcss: 2.9.0
-      rollup-plugin-svelte: 7.2.0(rollup@2.79.1)(svelte@3.59.2)
+      rollup-plugin-svelte: 7.2.2(rollup@2.79.1)(svelte@3.59.2)
       rollup-plugin-terser: 7.0.2(rollup@2.79.1)
       svelte: 3.59.2
       svelte-preprocess-markdown: 2.7.3
@@ -3952,7 +3952,7 @@ snapshots:
       safe-identifier: 0.4.2
       style-inject: 0.3.0
 
-  rollup-plugin-svelte@7.2.0(rollup@2.79.1)(svelte@3.59.2):
+  rollup-plugin-svelte@7.2.2(rollup@2.79.1)(svelte@3.59.2):
     dependencies:
       '@rollup/pluginutils': 4.2.1
       resolve.exports: 2.0.2
